@@ -1,3 +1,4 @@
+install(TARGETS solver)
 include(InstallRequiredSystemLibraries)
 set(CPACK_PACKAGE_CONTACT chvchvch@mail.com)
 set(CPACK_PACKAGE_VERSION_MAJOR ${PRINT_VERSION_MAJOR})
